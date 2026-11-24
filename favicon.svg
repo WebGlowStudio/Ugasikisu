@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none" role="img" aria-label="Ugasi kišu">
+<title>Ugasi kišu</title>
+<defs>
+  <linearGradient id="sky" x1="100" y1="10" x2="100" y2="190" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#163226"/>
+    <stop offset="1" stop-color="#0B0F0D"/>
+  </linearGradient>
+  <linearGradient id="sun" x1="70" y1="50" x2="140" y2="120" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#F3E7A8"/>
+    <stop offset="1" stop-color="#E8C54A"/>
+  </linearGradient>
+</defs>
+<rect width="200" height="200" rx="40" fill="url(#sky)"/>
+<g stroke="#E8C54A" stroke-width="7" stroke-linecap="round" opacity=".9">
+  <line x1="118" y1="28" x2="118" y2="14"/>
+  <line x1="150" y1="40" x2="162" y2="28"/>
+  <line x1="166" y1="72" x2="180" y2="72"/>
+  <line x1="88" y1="42" x2="76" y2="30"/>
+</g>
+<circle cx="118" cy="72" r="36" fill="url(#sun)"/>
+<ellipse cx="78" cy="118" rx="42" ry="26" fill="#9DB2A4"/>
+<ellipse cx="108" cy="124" rx="48" ry="30" fill="#C5D4C8"/>
+<ellipse cx="58" cy="128" rx="28" ry="18" fill="#B7C8BA"/>
+<circle cx="70" cy="116" r="4.2" fill="#163226"/>
+<circle cx="92" cy="114" r="4.2" fill="#163226"/>
+<path d="M74 128 Q81 134 88 128" stroke="#163226" stroke-width="3.2" stroke-linecap="round" fill="none"/>
+</svg>
